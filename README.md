@@ -1,4 +1,4 @@
-# Logicrom SDK - Blink example
+# Logicrom OpenCPU SDK - Blink example
 
 ## How to build
 
